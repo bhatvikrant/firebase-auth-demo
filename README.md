@@ -1,3 +1,13 @@
+# Firebase 🔥 Auth Template with NextJS ⚛️
+
+## Features
+
+- Sign Up
+- Log In
+- Update Profile
+- Forgot Password
+- Private Routes (in NextJS)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
